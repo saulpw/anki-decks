@@ -1,5 +1,5 @@
 front	back	tags	notes
-Planck Length (m)	-35		
+Planck Length (m)	-35	length	
 Speed of Light (m/s)	8.5	speed	300,000km/s
 Mass of Electron (kg)	-30	mass	
 Smallest Virus (kg)	-20.1	mass	Brome mosaic virus, a small virus (4.6 MDa)
@@ -7,13 +7,13 @@ Diameter of Proton (m)	-18	length
 Large Virus (kg)	-17.0	mass	Most viruses are actually smaller than the shortest wavelength of light, meaning they cannot be observed with visible light no matter how much you magnify them
 Diameter of Hydrogen Atom (m)	-10	length	
 Mass of Grain of Sand (kg)	-6	mass	
-Diameter of Human Ovum (m)	-5		
+Diameter of Human Ovum (m)	-4	length	
 Diameter of Moon (m)	6.5	length	
 Diameter of Earth (m)	7	length	
 1 Year (s)	7.5	time	
 Diameter of Sun (m)	9.1	length	
-Diameter of Solar System (m)	12		
-Diameter of Milky Way Galaxy (m)	21		
+Diameter of Solar System (m)	12	length	
+Diameter of Milky Way Galaxy (m)	21	length	
 Avg Total Human Power Consumption 2019 (W)	13	power	
 Distance from Earth to Alpha Centauri (m)	16.6	length	
 Solar Power Received on Earth (W)	17	power	
@@ -24,3 +24,31 @@ Diameter of Visible Universe (m)	27	length
 Mass of Sun (kg)	30.3	mass	
 Mass of Universe (kg)	53	mass	
 Speed of Tectonic plate movement (m/s)	-9.5 to -8.3	speed	
+Mass of Human Sperm Cell	-14	mass	
+Mass of Human Ovum	-9	mass	
+Mass of Housefly	-5	mass	
+Mass of Mouse	-2	mass	
+Mass of Human	2	mass	
+Mass of Elephant	3	mass	
+Annual Human Food Production	12	mass	
+Total Biomass on Earth	12.7	mass	
+Planck Time	-43	time	
+Nano	-9	prefix	
+Micro	-6	prefix	
+Milli	-3	prefix	
+Pico	-12	prefix	
+Kilo	3	prefix	
+Mega	6	prefix	
+Giga	9	prefix	
+Tera	12	prefix	
+Peta	15	prefix	
+Exa	18	prefix	
+Human Lifetime (s)	9	time	
+Age of Civilization (s)	11	time	
+Heat Death of Universe (s)	>100	time	
+Mass of Graviton	-59	mass	
+Mass of Proton	-27	mass	
+Mass of largest man-made ship/building	8	mass	
+Mass of Moon	23	mass	
+Mass of Milky Way	42	mass	
+1 Kilowatt-Hour (kWh) (J)	6.5	energy	3.6 MJ
